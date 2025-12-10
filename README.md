@@ -21,6 +21,7 @@ I enjoy exploring how things work behind the scenes and building simple yet mean
 #### 🌸 **Tools & IDEs**
 ![IDE-VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff69b4)
 ![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=ff69b4)
+![Tool-GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=ff69b4)
 
 ---
 
