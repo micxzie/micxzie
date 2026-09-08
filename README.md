@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/user-attachments/assets/4a930372-c038-4cee-9956-2c5feaee49f7' width='200'>
 
-I'm a **2nd year Computer Science Iska 🌻** looking for deeper inspiration in this field.  
+I'm a **3rd year Computer Science Iska 🌻** looking for deeper inspiration in this field.  
 I enjoy exploring how things work behind the scenes and building simple yet meaningful projects. ✨
 
 ---
